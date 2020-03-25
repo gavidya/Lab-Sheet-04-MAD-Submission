@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabSheet04</string>
+    <string name="nameField">Enter Your Name</string>
+    <string name="sendBtn">Sign Up</string>
+    <string name="name">Enter Name</string>
+    <string name="email">Enter E-Mail Address</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="pass">Enter Password</string>
+    <string name="repass">Re-Enter Password</string>
+    <string name="registerBtn">Register</string>
+    <string name="cancelBtn">Cancel</string>
+</resources>
